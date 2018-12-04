@@ -1,0 +1,14 @@
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.exe
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.deps.json
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.runtimeconfig.json
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.runtimeconfig.dev.json
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.dll
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.pdb
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.csproj.CoreCompileInputs.cache
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.RazorAssemblyInfo.cache
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.RazorAssemblyInfo.cs
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.AssemblyInfoInputs.cache
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.AssemblyInfo.cs
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.RazorTargetAssemblyInfo.cache
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.dll
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Release\netcoreapp2.1\win-x86\ControlHorasVITECHD.pdb

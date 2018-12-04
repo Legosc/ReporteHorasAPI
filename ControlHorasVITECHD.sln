@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlHorasVITECHD", "ControlHorasVITECHD\ControlHorasVITECHD.csproj", "{EC648A0F-449A-4372-8E2B-7372978DFFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC648A0F-449A-4372-8E2B-7372978DFFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC648A0F-449A-4372-8E2B-7372978DFFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC648A0F-449A-4372-8E2B-7372978DFFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC648A0F-449A-4372-8E2B-7372978DFFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E33CBD02-72A5-4BEA-B7CB-A2E9867E5F7A}
+	EndGlobalSection
+EndGlobal

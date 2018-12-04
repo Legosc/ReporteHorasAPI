@@ -1,0 +1,14 @@
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Debug\netcoreapp2.1\ControlHorasVITECHD.deps.json
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Debug\netcoreapp2.1\ControlHorasVITECHD.runtimeconfig.json
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Debug\netcoreapp2.1\ControlHorasVITECHD.runtimeconfig.dev.json
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Debug\netcoreapp2.1\ControlHorasVITECHD.dll
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\bin\Debug\netcoreapp2.1\ControlHorasVITECHD.pdb
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.csproj.CoreCompileInputs.cache
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.RazorAssemblyInfo.cache
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.RazorAssemblyInfo.cs
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.AssemblyInfoInputs.cache
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.AssemblyInfo.cs
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.RazorTargetAssemblyInfo.cache
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.dll
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.pdb
+C:\Users\vitechd\Documents\Proyectos Git\ControlHorasVITECHD\ControlHorasVITECHD\obj\Debug\netcoreapp2.1\ControlHorasVITECHD.csprojAssemblyReference.cache
