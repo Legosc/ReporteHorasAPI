@@ -61,7 +61,7 @@ namespace ControlHorasVITECHD
             });
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowSpecific", p => p.AllowAnyMethod().AllowAnyHeader().AllowCredentials().WithOrigins("http://localhost:4200").WithOrigins("https://clientes-edbd6.firebaseapp.com/").WithOrigins("http://127.0.0.1:8080"));
+                options.AddPolicy("AllowSpecific", p => p.AllowAnyMethod().AllowAnyHeader().AllowCredentials().WithOrigins("http://localhost:4200").WithOrigins("https://clientes-edbd6.firebaseapp.com").WithOrigins("http://127.0.0.1:8080"));
             });
             services.AddMvc().AddJsonOptions(ConfigureJson).SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }

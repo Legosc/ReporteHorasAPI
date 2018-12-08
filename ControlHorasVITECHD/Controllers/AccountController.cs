@@ -41,7 +41,7 @@ namespace ControlHorasVITECHD.Controllers
                 }
                 else
                 {
-                    return BadRequest("Username or password invalid");
+                    return BadRequest("Error al crear el usuario");
                 }
             }
             else
@@ -64,7 +64,7 @@ namespace ControlHorasVITECHD.Controllers
                 }
                 else
                 {
-                    ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                    ModelState.AddModelError("message", "Usuario o contraseña invalidos");
                     return BadRequest(ModelState);
                 }
             }
